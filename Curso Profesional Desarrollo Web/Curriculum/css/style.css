@@ -1,0 +1,21 @@
+html {
+    background-color: #F0F5F9;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.header_p {
+    display: inline-flex;
+    width: 400px;
+}
+
+header {
+    background-color: #C9D6DF;
+}
+
+.descripcion {
+    background-color: #52616B;
+    color: white;
+}
